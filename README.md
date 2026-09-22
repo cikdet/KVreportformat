@@ -94,7 +94,7 @@ The formatting shown here may need to be adjusted depending on the requirements 
 
 This repository was created and maintained by **Ts. Mahdzir Bin Jamiaan**, also known as **Cik Det**.
 
-He is an educator with interests in technical and engineering education, particularly in areas such as:
+He is an educator of PolyCC, Ministry of Higher Education (MOHE) with interests in technical and engineering education, particularly in areas such as:
 
 * Electronics
 * Internet of Things (IoT)
